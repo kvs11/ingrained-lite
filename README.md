@@ -141,7 +141,7 @@ Summary of optimization parameters:
 > -  crop_height: final (cropped) image height in pixels
 > -  crop_width: final (cropped) image width in pixels
 
-### Ex. 2: STM structure validation from simulated PARCHG images
+### Ex. 2: STM structure validation from simulated PARCHG images (credit: Venkata Surya Chaitanya Kolluru)
 
 Here, we outline the contents of the [example](https://github.com/MaterialEyes/ingrained-lite/tree/main/examples/completed_runs/stm/Cu2O_111) given for a [Cu<sub>2</sub>O(111)](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp06023a#!divAbstract) surface
 
